@@ -26,3 +26,8 @@ Or run this command
 ```bash
 $ python -m flask run
 ```
+
+or 
+```
+$ python -m app
+```
